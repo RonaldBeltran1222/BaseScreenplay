@@ -44,8 +44,8 @@ El archivo `build.gradle` gestiona las dependencias, plugins, compilación y con
 
 Antes de ejecutar este proyecto, asegúrate de tener instalado:
 
-- Java JDK 11 o superior → https://adoptium.net
-- Gradle (opcional) → https://gradle.org
+- Java JDK 11 o superior 
+- Gradle (opcional)
 - IntelliJ IDEA o Eclipse
 - Git
 
