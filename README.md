@@ -63,4 +63,4 @@ Antes de ejecutar este proyecto, asegúrate de tener instalado:
 
 ## ⚙️ Mantenimiento de versiones
 
-En la pagina de https://mvnrepository.com/ se pueden encontrar las dependencias si se dea actualizar o modificar el numero de versión de las usadas en el proyecto
+En la pagina de https://mvnrepository.com/ se pueden encontrar las dependencias si se dea actualizar o modificar el numero de versión de las usadas en el proyecto.
